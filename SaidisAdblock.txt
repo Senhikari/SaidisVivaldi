@@ -1,0 +1,20 @@
+! https://westmanga.info
+westmanga.fun##.kln.mlb.blox
+westmanga.fun##div.kln:nth-of-type(2)
+westmanga.fun##div.▭_started.▭__push:nth-of-type(2)
+westmanga.fun##.▭_scrollable-doc.▭
+westmanga.fun##div.kln:nth-of-type(6)
+westmanga.fun##div.kln:nth-of-type(3)
+westmanga.fun##div:nth-of-type(7)
+westmanga.fun###teaser3
+westmanga.fun##.kln.mlb.blox
+westmanga.fun##div.kln:nth-of-type(2)
+westmanga.fun##div.kln:nth-of-type(3)
+westmanga.fun##[src="https://new.kangaplod.xyz/f_images/sobet/s1/sobet_s1_000.gif"]
+westmanga.fun##[href="https://joker39.org/invite/dglit30"]
+westmanga.fun##[href="https://winwin39.xyz/invite/8fe4zuu"]
+westmanga.fun##div.kln:nth-of-type(3)
+westmanga.fun##.kln.mlb.blox
+westmanga.fun##div.kln:nth-of-type(1)
+westmanga.fun###teaser3 > .kln.blox
+westmanga.fun##div.kln:nth-of-type(3)
